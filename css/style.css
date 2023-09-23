@@ -16,7 +16,7 @@ body {
   font-size: 14px;
   font-weight: 300;
   line-height: 25px;
-  color: #3b4045;
+  color: #000000;
   font-family: "Josefin Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
@@ -67,7 +67,7 @@ h4,
 }
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 25px;
 }
 

@@ -10,6 +10,9 @@ $(window).on('load', function () {
   $('.preloader').fadeOut(100);
 });
 
+
+
+
 (function ($) {
   'use strict';
 
@@ -21,6 +24,8 @@ $(window).on('load', function () {
 			}, 300);
 		});
 	}
+
+  new WOW().init();
   
   // product Slider
   $('.product-image-slider').slick({

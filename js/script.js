@@ -7,7 +7,7 @@
 
 // Preloader js    
 $(window).on('load', function () {
-  $('.preloader').fadeOut(20);
+  $('.preloader').fadeOut(5);
 });
 
 
